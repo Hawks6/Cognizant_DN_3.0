@@ -1,0 +1,36 @@
+Forms in ServiceNow 
+
+1. Introduction to Forms
+- Definition: Forms are the user interface for viewing, editing, or creating a single record in the database.
+- Accessing Forms: Forms can be accessed from a list or through a global search.
+
+2. Standard Layout of a Form
+- Header Bar: Contains the form title and various action buttons.
+- Main Section: The primary area where fields are displayed.
+- Fields: Different types of fields such as string, boolean, choice, reference, list, and journal fields.
+- Additional Sections: May include related lists, attachments, and activity streams.
+
+3. Types of Fields and Interaction
+- String Fields: Used for text input.
+- Boolean Fields: Represent true/false values.
+- Choice Fields: Provide a dropdown list of options.
+- Reference Fields: Link to records in other tables.
+- List Fields: Allow multiple values.
+- Journal Fields: Used for logging comments or notes.
+
+4. Saving, Submitting, Updating, or Inserting a Record
+- Save: Temporarily saves the record without submitting it.
+- Submit: Finalizes and submits the record.
+- Update: Saves changes to an existing record.
+- Insert: Creates a new record based on the current form.
+- Insert and Stay: Creates a new record and keeps the form open for further editing.
+
+5. Creating a Copy of an Existing Record
+- Insert: Creates a copy of the record.
+- Insert and Stay: Creates a copy and keeps the form open for further modifications.
+
+6. Additional Features
+- Form Layout Customization: Users can customize the layout of forms to suit their needs.
+- Form Sections: Forms can be divided into multiple sections for better organization.
+- Form Actions: Various actions can be performed from the form header, such as saving, submitting, and updating records.
+

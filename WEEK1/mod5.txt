@@ -1,0 +1,44 @@
+Understanding ServiceNow List Interface and List Views
+- Navigating and Accessing Lists:
+  - Lists can be accessed through the navigation bar, search bar, and related lists on a form.
+
+Customizing ServiceNow List Views with Personalized Lists
+- Modify Layout and Appearance:
+  - Add/remove columns, change column width, reorder columns.
+  - Save customizations as a personalized list view.
+
+Using Filters and Search in ServiceNow List Views
+- Narrow Down Lists:
+  - Use built-in filters or create your own.
+  - Search for specific records within a list.
+
+Utilizing Breadcrumbs and Context Menus in List Views
+- Breadcrumbs:
+  - Navigate back to previous list views.
+- Context Menus:
+  - Access context-specific options.
+
+Managing and Updating Records in ServiceNow List Views
+- Manage Multiple Records:
+  - Update records in bulk or one at a time.
+  - Delete, copy, or export records as needed.
+
+Applying Filters with Condition Builder and Column Search
+- Condition Builder:
+  - Create complex filters using a user-friendly interface.
+- Column Search:
+  - Quickly filter records based on specific keywords.
+
+Benefits of Breadcrumbs and Context Menus
+- Efficiency:
+  - Easily navigate and access desired actions.
+- Contextual Awareness:
+  - Better understanding of current location and available options.
+- Improved User Experience:
+  - Smoother, more streamlined experience.
+
+Advanced Update Options
+- Table Update:
+  - Access update options through the Table dropdown menu.
+- Update Set:
+  - Manage, version, and track record changes centrally.

@@ -1,0 +1,53 @@
+Understanding ServiceNow:
+
+Introduction:
+- ServiceNow is a cloud-based platform designed to provide IT services.
+- The best way to understand ServiceNow is through hands-on experience.
+
+Getting Started:
+- Open your favorite browser (e.g., Google Chrome).
+- Enter the URL to your ServiceNow instance to access the login screen.
+- Companies receive URLs to access their ServiceNow instances, which can include multiple instances (Production, Test, Development).
+
+ServiceNow Instances:
+- When a company purchases a ServiceNow license, they get a cloud-based platform and suite of applications.
+- The platform handles compute resources, scaling, security, redundancy, failover, database, and data backups.
+- This allows companies to focus on their business and customers.
+- The platform includes a suite of applications for common IT services.
+
+Logging In:
+- To log in, users need an account created on the instance.
+- Users are granted roles to manage their privileges.
+- Admin roles allow users to see and do almost everything.
+
+User Interface (UI):
+
+Next Experience UI:
+- The primary UI for applications and the platform.
+- Other UIs include mobile applications (Android and Apple), Service Portal, and Employee Center.
+
+Navigation Bar:
+- User Menu: Configure user-specific settings and preferences.
+- Notifications: Set up and view notifications for events and tasks.
+- Contextual Help: Access knowledge-base articles and help tools based on the current platform location.
+- Application Scope Picker: Used by administrators and developers to manage application scopes.
+- Global Search: Search the entire platform for relevant information.
+- Contextual App Pill: Displays the current location within the platform.
+- Favorites: Mark screens or application modules as favorites for quick access.
+- Admin Menu: Contains specific tools for admins.
+- Workspaces: Single screens with multiple widgets for specific tasks.
+- History: Keeps track of the last 30 screens or places visited.
+- All Menu: Access all applications, both out-of-box and custom-developed.
+
+Applications and Workflows:
+
+Workflows:
+- ServiceNow applications are divided into four primary workflows:
+  - IT Workflows: 79 applications for internal IT functions.
+  - Employee Workflows: 43 applications for employee needs.
+  - Customer Workflows: 93 applications for customer-related functions.
+  - Creator Workflows: 23 applications for developers to enhance and build new workflows.
+
+Application Groups:
+- Each workflow is subdivided into groups of applications.
+- The breadth and depth of application offerings cater to specific needs within each workflow.
